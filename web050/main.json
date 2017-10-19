@@ -1,0 +1,31 @@
+{
+   "name":"Robots_are_not_welcome_here.",
+   "category":"web",
+   "description":{
+      "RU":"Здесь нет ничего интересного.",
+      "ENG":"There is nothing interesting here."
+   },
+   "hints":[
+      {
+         "RU":"Текстовый файл в формате .txt, ограничивающий поисковым роботам доступ к содержимому на http-сервере",
+         "ENG":"Text file in .txt format, which restricts search engines to access content on the http server"
+      }
+   ],
+   "value":50,
+   "flag_type":"static",
+   "flag_key":"ugractf{y0u_kn0w_y0ur3_n07_w3lc0m3_h3r3}",
+   "links": [
+      {
+       "remote":"https://not-wellcome.herokuapp.com/",
+       "remote":"https://not-wellcome-mirror.herokuapp.com/"
+      }
+   ],
+   "author":{
+      "nick":"f0x",
+      "team":"keva",
+      "contacts":[
+         "vk.com/fox"
+      ]
+   },
+   "game":"ugractf"
+}

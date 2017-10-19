@@ -1,0 +1,40 @@
+{
+   "name":"Something inside",
+   "category":"stegano",
+   "description":{
+      "RU":"Кто-то оставил этот файл на нашем сервере. Можешь посмотреть, что в нем?",
+      "ENG":"Someone left this file on our server. Can you watch, what is inside?"
+   },
+   "hints":[
+      {
+         "RU":"Возможно это изображение?",
+         "ENG":"Is it image?"
+      },
+      {
+         "RU":"Что вы знаете о каналах изображения?",
+         "ENG":"What do you know about the channels of image?"
+      }
+   ],
+   "value":100,
+   "flag_type":"static",
+   "flag_key":"uralctf{t00_34sy_f0r_y0u}",
+   "files":[
+      {
+         "name":"Wrong_file",
+         "location":"Wrong_file.rar"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/d/ZT1z-rDD3MdFSz"
+      }
+   ],
+   "author":{
+      "nick":"Vexar",
+      "team":"KEVA",
+      "contacts":[
+         "vk.com/vexarr"
+      ]
+   },
+   "game":"uralctf"
+}

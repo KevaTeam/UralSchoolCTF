@@ -1,0 +1,40 @@
+{
+   "name":"Impudent cat",
+   "category":"stegano",
+   "description":{
+      "RU":"Вы только посмотрите на этого нахального кота! Отвратительно! Что за плохие манеры.",
+      "ENG":"Just look at this sassy cat! Disgusting! What a bad manners."
+   },
+   "hints":[
+      {
+         "RU":"Это определенно не только изображение.",
+         "ENG":"It's definitely not just an image."
+      },
+      {
+         "RU":"Brainfuck? Что это?",
+         "ENG":"Brainfuck? What is that?"
+      }
+   ],
+   "value":200,
+   "flag_type":"static",
+   "flag_key":"uralctf{s4ssy_c4t}",
+   "files":[
+      {
+         "name":"Vskroy_menya",
+         "location":"Vskroy_menya.png"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/i/XgQg3Sdo3MdFzY"
+      }
+   ],
+   "author":{
+      "nick":"Vexar",
+      "team":"KEVA",
+      "contacts":[
+         "vk.com/vexarr"
+      ]
+   },
+   "game":"uralctf"
+}

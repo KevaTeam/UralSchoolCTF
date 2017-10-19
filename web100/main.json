@@ -1,0 +1,35 @@
+{
+   "name":"easy_front",
+   "category":"web",
+   "description":{
+      "RU":"Найди послание.",
+      "ENG":"Find the message."
+   },
+   "hints":[
+      {
+         "RU":"Скрытое послание",
+         "ENG":"The hidden message"
+      },
+      {
+         "RU":"Посмотри по ближе",
+         "ENG":"Look closer"
+      }
+   ],
+   "value":100,
+   "flag_type":"static",
+   "flag_key":"ugractf{b361nn3r_fr0n7_3nd_d3v3l0p3r}",
+   "links": [
+      {
+       "remote":"https://easy-front.herokuapp.com/",
+       "remote":"https://easy-front-mirror.herokuapp.com/"
+      }
+   ],
+   "author":{
+      "nick":"f0x",
+      "team":"keva",
+      "contacts":[
+         "vk.com/fox"
+      ]
+   },
+   "game":"ugractf"
+}

@@ -1,0 +1,31 @@
+{
+   "name":"Not_yours",
+   "category":"web",
+   "description":{
+      "RU":"Чужие записки.",
+      "ENG":"Someone else's notes."
+   },
+   "hints":[
+      {
+         "RU":"И - идентификатор",
+         "ENG":"Id - identifier"
+      }
+   ],
+   "value":200,
+   "flag_type":"static",
+   "flag_key":"ugractf{uuu_y0ur3_4_h4ck3r}",
+   "links": [
+      {
+       "remote":"https://not-yours.herokuapp.com/",
+       "remote":"https://not-yours-mirror.herokuapp.com/"
+      }
+   ],
+   "author":{
+      "nick":"f0x",
+      "team":"keva",
+      "contacts":[
+         "vk.com/fox"
+      ]
+   },
+   "game":"ugractf"
+}

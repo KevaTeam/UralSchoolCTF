@@ -1,0 +1,23 @@
+{
+   "name":"ppc 360 quadratic equation",
+   "category":"ppc",
+   "description":{
+      "RU":"Необходимо решить квадратные уравнения 'nc <ip> <port>'. Если решения нет, посылать 'None', если x - один, то послать нужно два раза: '<x> <x>'. Если решения два, то поcылать нужно сначала меньший, потом больший:'x1 x2', где x1<=x2.",
+      "ENG":""
+   },
+   "hints":[],
+   "value":360,
+   "flag_type":"static",
+   "flag_key":"uralctf{Yeahh_It's Aw3s0mE!Grac}",
+   "files":[],
+   "links": [],
+   "author":{
+      "nick":"fascinsun",
+      "team":"KEVA",
+      "contacts":[
+         "koyshinov@gmail.com",
+         "vk.com/koyshinov"
+      ]
+   },
+   "game":"uralctf"
+}

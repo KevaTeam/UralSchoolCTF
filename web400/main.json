@@ -1,0 +1,35 @@
+{
+   "name":"soo_auth",
+   "category":"web",
+   "description":{
+      "RU":"Получи доступ к панели администратора, и победи в игру.",
+      "ENG":"Get access to the admin panel, and win the game."
+   },
+   "hints":[
+      {
+         "RU":"Все любят печеньки",
+         "ENG":"Everybode love cookie"
+      },
+      {
+         "RU":"А ты администратор?",
+         "ENG":"Are you admin?"
+      }
+   ],
+   "value":400,
+   "flag_type":"static",
+   "flag_key":"ugractf{c00k13_l0v3r}",
+   "links": [
+      {
+       "remote":"https://soo-auth.herokuapp.com/",
+       "mirror":"https://soo-auth-mirror.herokuapp.com/"
+      }
+   ],
+   "author":{
+      "nick":"f0x",
+      "team":"keva",
+      "contacts":[
+         "vk.com/fox"
+      ]
+   },
+   "game":"ugractf"
+}

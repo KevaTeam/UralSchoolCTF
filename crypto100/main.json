@@ -1,0 +1,10 @@
+{
+  "name": "ABC",
+  "category": "crypto",
+  "description": "Do you know ABC?",
+  "value": 100,
+  "flag_key": "uralctf{whatdoyouknowaboutabc}",
+  "links": "",
+  "author": "nobody",
+  "game": "uralctf"
+}

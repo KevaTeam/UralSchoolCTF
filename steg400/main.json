@@ -1,0 +1,40 @@
+{
+   "name":"Strange audio",
+   "category":"stegano",
+   "description":{
+      "RU":"Серьезно? Аудио запись? Оооо, нам хватило непонятного файла в прошлый раз. Эй, ты! Поможешь разобраться, что не так?",
+      "ENG":"Really? Audio recording? Ooooh, we had an incomprehensible file at last time. Hey, you! Help me figure out what's wrong?"
+   },
+   "hints":[
+      {
+         "RU":"А спектрограмма полезная штука!",
+         "ENG":"A spectrogram is a useful thing!"
+      },
+      {
+         "RU":"Похоже на base64.",
+         "ENG":"It looks like base64."
+      }
+   ],
+   "value":400,
+   "flag_type":"static",
+   "flag_key":"uralctf{h41p4n3m_n3mn0j3chk0?}",
+   "files":[
+      {
+         "name":"haip_spek",
+         "location":"haip_spek.wav"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/d/h0E3NhWG3MdPPX"
+      }
+   ],
+   "author":{
+      "nick":"Vexar",
+      "team":"KEVA",
+      "contacts":[
+         "vk.com/vexarr"
+      ]
+   },
+   "game":"uralctf"
+}

@@ -1,0 +1,35 @@
+{
+   "name":"spider_map",
+   "category":"web",
+   "description":{
+      "RU":"Цитата с флагом",
+      "ENG":"Quotation with a flag."
+   },
+   "hints":[
+      {
+         "RU":"Тебе знакомы XML-файлы с информацией для поисковых систем?",
+         "ENG":"Do you know XML files with information for search engines?"
+      },
+      {
+         "RU":"Комментарии - отличная вещь",
+         "ENG":"Comments are a great thing"
+      }
+   ],
+   "value":300,
+   "flag_type":"static",
+   "flag_key":"ugractf{534rch_l1k3_4_6006l3}",
+   "links": [
+      {
+       "remote":"https://spider-map.herokuapp.com/",
+       "remote-mirror":"https://spider-map-mirror.herokuapp.com/"
+      }
+   ],
+   "author":{
+      "nick":"f0x",
+      "team":"keva",
+      "contacts":[
+         "vk.com/fox"
+      ]
+   },
+   "game":"ugractf"
+}

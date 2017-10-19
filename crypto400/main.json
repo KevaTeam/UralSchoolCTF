@@ -1,0 +1,10 @@
+{
+  "name": "MULTICIPHERING",
+  "category": "crypto",
+  "description": "so many different algorithms",
+  "value": 400,
+  "flag_key": "uralctf{somanybutnotsostrong}",
+  "links": "",
+  "author": "nobody",
+  "game": "uralctf"
+}

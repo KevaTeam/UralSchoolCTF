@@ -1,0 +1,10 @@
+{
+  "name": "CTF IS SO SIMPLE!!!",
+  "category": "crypto",
+  "description": "What do you know about slogans?",
+  "value": 300,
+  "flag_key": "uralctf{timetorockitfromthedeltatothedmz}",
+  "links": "",
+  "author": "nobody",
+  "game": "uralctf"
+}

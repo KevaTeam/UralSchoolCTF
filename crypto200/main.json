@@ -1,0 +1,10 @@
+{
+  "name": "Permutation",
+  "category": "crypto",
+  "description": "Let's permuted something",
+  "value": 200,
+  "flag_key": "uralctf{everydayi'mshufflingshufflingshuffling}",
+  "links": "",
+  "author": "nobody",
+  "game": "uralctf"
+}

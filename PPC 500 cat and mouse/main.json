@@ -1,0 +1,28 @@
+{
+   "name":"ppc 500 cat and mouse",
+   "category":"ppc",
+   "description":{
+      "RU":"Вы наверное устали и пришло время поиграть! Вы - кошка, цель - поймать мышку! Правила в readme.",
+      "ENG":""
+   },
+   "hints":[],
+   "value":500,
+   "flag_type":"static",
+   "flag_key":"uralctf{Ave_%username%_4v3_%us3rn4m3%!}",
+   "files": [
+         {
+         "name":"readme",
+         "location":"readme.pdf"
+      }
+   ],
+   "links": [],
+   "author":{
+      "nick":"fascinsun",
+      "team":"KEVA",
+      "contacts":[
+         "koyshinov@gmail.com",
+         "vk.com/koyshinov"
+      ]
+   },
+   "game":"uralctf"
+}
